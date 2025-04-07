@@ -1,3 +1,6 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/Beatriz-dos-Anjos/produtos-sociais-desenvolvimento-de-software-front.git
+[submodule "back"]
+	path = back
+	url = https://github.com/MateusRiba/Marketplace-Social-Prefeitura-do-Recife.-BackEnd.git
